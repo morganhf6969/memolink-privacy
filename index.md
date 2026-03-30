@@ -8,6 +8,8 @@ Tutti i contenuti salvati (link, categorie, informazioni) sono archiviati esclus
 
 ## Condivisione dei dati
 MemoLink non condivide dati con terze parti e non utilizza servizi di tracciamento o analisi.
+## Acquisti in-app
+Per gestire gli acquisti in-app, MemoLink utilizza RevenueCat, un servizio di terze parti. RevenueCat può raccogliere informazioni anonime sul dispositivo e sugli acquisti effettuati al solo scopo di elaborare le transazioni e verificare lo stato dell'abbonamento. Non vengono mai condivisi dati personali identificabili. Privacy policy di RevenueCat: https://www.revenuecat.com/privacy
 
 ## Archiviazione dei dati
 I dati sono salvati localmente sul dispositivo.
